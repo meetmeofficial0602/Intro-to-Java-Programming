@@ -41,9 +41,6 @@ public class Exercise_05_01 {
 
 		// Display results
 		System.out.println(
-			"The number of positive is " + positives +
-			"\nThe number of negatives is " + negatives +
-			"\nThe total is total " + total +
-			"\nThe average is " + average);
+			"\nThe average is " + average); // print average as output
 	}
 }
